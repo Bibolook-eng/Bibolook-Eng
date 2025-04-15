@@ -5,7 +5,7 @@
 </p>
 
 # 💫 Sobre Mim:
-- 👨‍💻 Engenheiro de Computação e Educador em Matemática e Física  
+- 👨‍💻 Engenheiro de Computação, Educador em Matemática e Física  
 - 🔧 Experiência em desenvolvimento de sistemas (Delphi, C#, Python, R)  
 - ☁️ Entusiasta de computação em nuvem e inteligência artificial (Azure)  
 - 💼 Gestão de infraestrutura de TI com servidores Linux e Windows  
