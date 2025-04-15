@@ -47,8 +47,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rui-tobias&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rui-tobias&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bibolook-eng&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rBibolook-eng&theme=tokyonight" />
 </p>
 
 ### ✍️ Citação Dev Aleatória
