@@ -1,4 +1,4 @@
-<h1 align="center">Olá, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45" /> Rui Tobias Carvalho</h1>
+<h1 align="center">Olá, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45" /></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rui-tobias&label=Visualizações&color=blue&style=plastic" alt="perfil views" />
