@@ -10,8 +10,8 @@
 
 # 💫 About Me:
 - 👨‍💻 Computer Engineer, Math and Physics Educator
-- 🔧 Experience in systems development (Java, Flutte, GoLang, Delphi, C#, Python, R)
-- ☁️ Cloud computing and artificial intelligence (Azure) enthusiast
+- 🔧 Experience in systems development (Java, Flutter, GoLang, .NET, Python, R)
+- ☁️ Cloud computing and artificial intelligence (Azure, GoogleCloud, AWS) enthusiast
 - 💼 IT infrastructure management with Linux and Windows servers
 - 📘 I'm also passionate about sharing knowledge as a teacher
 - 🎯 I strive to contribute to multiplatform projects that generate real impact
